@@ -6,3 +6,9 @@ A simple project to practice C programming skills.
 
 -   Doubly Linked List
 -   Custom String handling
+
+## Quick start
+
+```
+    make run
+```
